@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&fontColor=FFFFFF&height=200&section=header&text=We%_with&fontSize=60)
 # 위로 (We With)
 ### 쓰담쓰담쓰담(윤지현, 김나은, 서영재, 유혜원)
 #### 수행기간 : 2022년 11월 1일 ~ 12월 09일
